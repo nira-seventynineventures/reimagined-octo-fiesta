@@ -1,0 +1,28 @@
+{
+  "mode": "selected",
+  "channels": {
+    "linkedin": {"label": "LinkedIn", "url": "https://www.linkedin.com/in/niraminniefield"},
+    "instagram": {"label": "Instagram", "url": "https://www.instagram.com/seventynineventures"},
+    "threads": {"label": "Threads", "url": "https://www.threads.net/@seventynineventures"}
+  },
+  "posts": [
+    {
+      "id": "threads-sauna-first",
+      "platform": "threads",
+      "title": "Sauna first",
+      "excerpt": "I think about the sauna a lot, I love the sauna. I need the sauna daily.",
+      "date": "2026-10-01",
+      "url": "https://www.threads.com/%40seventynineventures/post/Dd8uQpPld7v/sauna-first",
+      "source": "Public Threads post indexed for @seventynineventures; checked 2026-10-24."
+    },
+    {
+      "id": "threads-fun-slack",
+      "platform": "threads",
+      "title": "Threads is like if Slack were for fun",
+      "excerpt": "Threads is just fun Slack. Slack is just not-fun Threads.",
+      "date": null,
+      "url": "https://www.threads.com/%40seventynineventures/post/Dd88VbSFcnw/threads-is-like-if-slack-were-for-fun/",
+      "source": "Public Threads post indexed for @seventynineventures; checked 2026-10-24. Publication date was not available."
+    }
+  ]
+}

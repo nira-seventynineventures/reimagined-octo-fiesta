@@ -1,0 +1,14 @@
+{
+  "site_url": "https://niraminniefield.com",
+  "posts": [
+    {
+      "slug": "the-architecture-of-agency",
+      "title": "The Architecture of Agency",
+      "category": "Project note",
+      "date": "2026-10-24",
+      "excerpt": "A book in development examining how intelligent technologies redistribute professional judgment, expertise, authority, and responsibility.",
+      "body": "posts/the-architecture-of-agency.html",
+      "status": "published"
+    }
+  ]
+}
